@@ -1,0 +1,10 @@
+{
+    "Caneta": {
+        "quantidade": 80,
+        "validade": null
+    },
+    "Caderno": {
+        "quantidade": 50,
+        "validade": null
+    }
+}
